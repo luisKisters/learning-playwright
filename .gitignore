@@ -21,3 +21,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+tests/__pycache__/test_link.cpython-310-pytest-7.1.3.pyc
